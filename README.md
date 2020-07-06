@@ -1,0 +1,2 @@
+# pixel-art-dp
+Proyecto realizado en Acámica 2019, donde pueden realizarse dibujos en estilo pixel art. Como adición al proyecto, agregué la lógica para poder tener los botones rehacer y deshacer. En muchos proyectos de Acámica, decidí cambiar la estética original, utilizando al personaje Deapool. Al seleccionar un diseño predefinido, se encontrará una sorpresa. Mirá el proyecto: https://pilichanampe.github.io/pixel-art-dp/
